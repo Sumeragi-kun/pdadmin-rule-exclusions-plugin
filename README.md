@@ -4,7 +4,7 @@ This plugin contains rule exclusions to fix false positives when using pd-admin 
 
 ## Requirements
 
-CRS Version 4.0 or newer
+CRS Version 4.0 or newer\\
 Apache with modsecurity enabled
 
 ## Work in Progress
